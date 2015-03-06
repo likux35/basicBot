@@ -1,6 +1,6 @@
 {
 
-    "nodatafound": "No previous data found.",
+    "nodatafound": "No previous data founds.",
     "retrievingdata": "Retrieving previously stored data.",
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
